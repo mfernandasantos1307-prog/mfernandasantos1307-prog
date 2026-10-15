@@ -17,7 +17,6 @@
 - 🚀 Trainee na **Softeam**, a empresa júnior de computação da faculdade
 - 💡 Estudando **PostgreSQL**, **HTML** e **CSS**
 - 🔎 Procurando uma oportunidade de **estágio na área de tecnologia**
-- 🤝 Gosto de aprender de verdade, com calma e passo a passo
 
 ---
 
